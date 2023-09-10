@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Sep 10 14:17:44 2023
+# Process ID: 18860
+# Current directory: C:/git/ECE_exp2/week2/N01_logic_gate/N01_logic_gate.runs/synth_1
+# Command line: vivado.exe -log logic_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source logic_gate.tcl
+# Log file: C:/git/ECE_exp2/week2/N01_logic_gate/N01_logic_gate.runs/synth_1/logic_gate.vds
+# Journal file: C:/git/ECE_exp2/week2/N01_logic_gate/N01_logic_gate.runs/synth_1\vivado.jou
+# Running On: DESKTOP-LMK0NRA, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 8433 MB
+#-----------------------------------------------------------
+source logic_gate.tcl -notrace
