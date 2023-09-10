@@ -1,0 +1,7 @@
+Running: xsim.dir/half_adder_with_case_behav/xsimk.exe -simmode gui -wdb half_adder_with_case_behav.wdb -simrunnum 0 -socket 60893
+Design successfully loaded
+Design Loading Memory Usage: 8700 KB (Peak: 8700 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 9236 KB (Peak: 9236 KB)
+Simulation CPU Usage: 0 ms
